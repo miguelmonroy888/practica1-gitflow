@@ -4,3 +4,4 @@ coste = float(input("Ingresa el coste por hora: "))
 paga = horas * coste
 
 print("Tu paga es:", paga)
+print("Funcionalidad websocket en desarrollo")
